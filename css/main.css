@@ -15,6 +15,7 @@ html {
   color: #222;
   font-size: 1em;
   line-height: 1.4;
+  font-family: Georgia, serif;
 }
 
 /*
@@ -97,7 +98,16 @@ textarea {
 /* ==========================================================================
    Custom styles
    ========================================================================== */
-.txt-ctr {
+.greenbush {
+  color: #011f00;
+  font-size: 18vh;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  text-align: center;
+}
+.gb-slug {
+  font-size: 10vh;
+  margin-top: 0px;
   text-align: center;
 }
 
